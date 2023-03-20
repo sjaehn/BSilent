@@ -4,13 +4,14 @@ Worried about the daily life noise level? But you only want a bit - silence?
 Then B.Silent is the virtual instrument to make your dreams come true.
 
 B.Silent is a unique MIDI instrument to produce silence in highest quality.
-Choose between 10 hand-selected types of silence provided as built-in presets
+Choose between 8 hand-selected types of silence provided as built-in presets
 to play silence in a never heard cleanliness. No background noise, no 
 distortion, no glitches, only pure silence.
 
 ![screenshot](https://github.com/sjaehn/BSilent/blob/master/doc/screenshot.png "Screenshot from B.Silent")
 
 Enjoy the silence!
+
 Released on April 1, 2023
 
 
