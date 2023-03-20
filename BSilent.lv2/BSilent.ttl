@@ -46,13 +46,14 @@
     lv2:scalePoint [ rdfs:label "Calmness" ; rdf:value 0 ] ;
 		lv2:scalePoint [ rdfs:label "Quietness" ; rdf:value 1 ] ;
     lv2:scalePoint [ rdfs:label "Tranquility" ; rdf:value 2 ] ;
-		lv2:scalePoint [ rdfs:label "Absolute silence" ; rdf:value 3 ] ;
-    lv2:scalePoint [ rdfs:label "Cosmic silence" ; rdf:value 4 ] ;
-    lv2:scalePoint [ rdfs:label "Interstellar silence" ; rdf:value 5 ] ;
-    lv2:scalePoint [ rdfs:label "Galactic silence" ; rdf:value 6 ] ;
+    lv2:scalePoint [ rdfs:label "All muted" ; rdf:value 3 ] ;
+		lv2:scalePoint [ rdfs:label "Absolute silence" ; rdf:value 4 ] ;
+    lv2:scalePoint [ rdfs:label "Cosmic silence" ; rdf:value 5 ] ;
+    lv2:scalePoint [ rdfs:label "Interstellar silence" ; rdf:value 6 ] ;
+    lv2:scalePoint [ rdfs:label "Galactic silence" ; rdf:value 7 ] ;
     lv2:default 0 ;
     lv2:minimum 0 ;
-    lv2:maximum 6 
+    lv2:maximum 7 
   ] , [
     a lv2:InputPort , lv2:ControlPort ;
     lv2:index 3 ;
