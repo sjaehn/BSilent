@@ -19,8 +19,8 @@
   doap:name "B.Silent";
   doap:license <http://usefulinc.com/doap/licenses/gpl> ;
   lv2:binary <BSilent.so> ;
-  lv2:microVersion 2 ;
-  lv2:minorVersion 2 ;
+  lv2:microVersion 23 ;
+  lv2:minorVersion 4 ;
   ui:ui <https://www.jahnichen.de/plugins/lv2/BSilent#GUI> ;
   lv2:optionalFeature lv2:hardRTCapable ;
   lv2:port [
