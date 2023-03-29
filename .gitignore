@@ -1,1 +1,5 @@
+/BSilent.lv2/**
 **/*.so
+.clangd
+*.zip
+*.tar.gz
